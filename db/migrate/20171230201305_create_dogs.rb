@@ -5,5 +5,6 @@ class CreateDogs < ActiveRecord::Migration
       t.string :breed
     end
   end
- 
+
 end
+
